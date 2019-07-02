@@ -29,7 +29,7 @@ here are the links to those:
  6. numpy
  7. wordcloud
  8. PIL
- 9.urllib
+ 9. urllib
  10. random
 
 ### Procedure

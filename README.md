@@ -21,22 +21,22 @@ here are the links to those:
 
 - importing bs4, requests API's, I have collected the data from these URL's.
 ### Libraries Required
-##### 1. BeautifulSoup
-##### 2. Pandas
-##### 3. Requests
-##### 4. Matplotlib
-##### 5. nltk
-##### 6. numpy
-##### 7. wordcloud
-##### 8. PIL
-##### 9.urllib
-##### 8. random
+ 1. BeautifulSoup
+ 2. Pandas
+ 3. Requests
+ 4. Matplotlib
+ 5. nltk
+ 6. numpy
+ 7. wordcloud
+ 8. PIL
+ 9.urllib
+ 10. random
 
 ### Procedure
-##### Web Scraping websites
-##### Getting the data.
-##### Performing analysis: Lexical Diversity, word occurrences, sentiment analysis, common words, generate word cloud
-##### Visualizing the results using Matplotlib.
+ - Web Scraping websites
+ - Getting the data.
+ - Performing analysis: Lexical Diversity, word occurrences, sentiment analysis, common words, generate word cloud
+ - Visualizing the results using Matplotlib.
 ### Conculsion
 - From the graph of Lexical Diverity Analysis, we can clearly state that "The Hindu" is a Newspaper with higher LD than "Times Of India" Newspaper.
 - We can also see that the "The Hindu" has more unique words than the "Times Of India" Newspaper.

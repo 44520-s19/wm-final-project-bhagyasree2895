@@ -21,10 +21,10 @@ here are the links to those:
 
 - importing bs4, requests API's, I have collected the data from these URL's.
 ### Libraries Required
- 1. BeautifulSoup
- 2. Pandas
- 3. Requests
- 4. Matplotlib
+ 1. beautifulSoup
+ 2. pandas
+ 3. requests
+ 4. matplotlib
  5. nltk
  6. numpy
  7. wordcloud
